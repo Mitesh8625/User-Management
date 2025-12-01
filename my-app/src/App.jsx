@@ -1,8 +1,10 @@
 import AllUser from './Components/AllUser'
+import Register from './Components/Register'
 function App() {
   return (
     <>
-  <AllUser/>
+  {/* <AllUser/> */}
+  <Register/>
     </>
   )
 }
